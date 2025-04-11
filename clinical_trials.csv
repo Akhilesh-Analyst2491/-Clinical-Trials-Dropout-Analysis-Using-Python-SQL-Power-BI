@@ -1,0 +1,6 @@
+trial_id,site_id,patient_id,age,gender,treatment_arm,start_date,end_date,dropout,phase
+1,101,1001,34,M,A,2021-01-01,2021-06-01,False,Phase 1
+2,102,1002,45,F,B,2021-02-15,2021-06-20,True,Phase 2
+3,101,1003,29,M,A,2021-03-10,2021-07-15,False,Phase 1
+4,103,1004,61,F,B,2021-04-22,2021-08-10,True,Phase 3
+5,104,1005,50,M,A,2021-05-05,2021-09-01,False,Phase 2
